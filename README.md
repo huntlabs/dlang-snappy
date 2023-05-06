@@ -1,2 +1,2 @@
 # Snappy
-Snappy library for D.
+Snappy library 3 for D.
